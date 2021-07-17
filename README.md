@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="../01-github-explorer/src/assets/images/Ignite.png" width="800" title="hover text">
-</h1>
+<h1 align="center">  <img src="./.github/Ignite.png" width="800px" alt="Home page"> </h1> 
 
 <h1 align="center">
 Rocketseat  🚀 
