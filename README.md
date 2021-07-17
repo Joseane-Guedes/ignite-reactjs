@@ -1,8 +1,15 @@
-# Rocketseat - Ignite :rocket:
+<h1 align="center">
+  <img src="../01-github-explorer/src/assets/images/Ignite.png" width="800" title="hover text">
+</h1>
 
-## React ⚛️ 
+<h1 align="center">
+Rocketseat  🚀 
+</h1>
+
+# [Ignite - ReactJS](https://rocketseat.com.br/ignite) 👩‍🚀
+
  
-## check-list :books:
+## check-list chapter I ✍️
 
 - [x]  A estrutura de projetos em React;
 - [x]  Os conceitos do React (componentes, estados e props);
@@ -12,7 +19,13 @@
 - [x]  Ter começado a entender o propósito do uso do TypeScript;
 - [x]  Como utilizar as tipagens do TypeScript.
 
-:hammer_and_pick:
+# [ReactJS Docs  ](https://reactjs.org/) 📖
+
+<br/>
+
+## Create a New React App  :hammer_and_wrench:
+
+
 ![Screenshot](https://cdn.jsdelivr.net/gh/facebook/create-react-app@27b42ac7efa018f2541153ab30d63180f5fa39e0/screencast.svg)
 
 
@@ -20,3 +33,6 @@
   <img src="src/assets/images/react.svg" width="700" title="hover text">
 </p>
 
+<hr/>
+
+Made with :purple_heart: by [Rocketseat](https://rocketseat.com.br/ignite) :rocket: and [Joseane Guedes ](https://github.com/Joseane-Guedes) :woman_technologist: 
