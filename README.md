@@ -4,10 +4,10 @@
 Rocketseat  🚀 
 </h1>
 
-# [Ignite - ReactJS](https://rocketseat.com.br/ignite) 👩‍🚀
+# [Ignite - ReactJS - chapter I ](https://rocketseat.com.br/ignite) 👩‍🚀
 
  
-## check-list chapter I ✍️
+## check-list ✍️
 
 - [x]  A estrutura de projetos em React;
 - [x]  Os conceitos do React (componentes, estados e props);
